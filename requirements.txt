@@ -12,3 +12,5 @@ minio==7.0.3
 cryptography==3.4.7
 fastapi_sqlalchemy==0.2.1
 psycopg2==2.8.6
+git+https://github.com/vre-charite-autodeploy/service_common.git@main
+
